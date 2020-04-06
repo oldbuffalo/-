@@ -1,0 +1,2 @@
+- Open in Browser 在浏览器中打开
+- Auto Rename Tag  双标签修改时一起配对修改
